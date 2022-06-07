@@ -126,12 +126,20 @@ footer{
 
 @media screen and (max-width: 550px){
 
+	header, .atividade{
+		width: 70%;
+	}
+
 	.corTexto{
 		font-size: 40px;
 	}
 
 	.descricaoCor h1{
 		font-size: 22px;
+	}
+
+	.btn{
+		width: 40%;
 	}
 
 	.btn button{

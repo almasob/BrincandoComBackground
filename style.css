@@ -127,7 +127,7 @@ footer{
 @media screen and (max-width: 550px){
 
 	header, .atividade{
-		width: 70%;
+		width: 80%;
 	}
 
 	.corTexto{
@@ -139,7 +139,7 @@ footer{
 	}
 
 	.btn{
-		width: 40%;
+		width: 60%;
 	}
 
 	.btn button{

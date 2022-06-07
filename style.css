@@ -126,6 +126,10 @@ footer{
 
 @media screen and (max-width: 550px){
 
+
+	header{
+		height: 10%;
+	}
 	header, .atividade{
 		width: 80%;
 	}

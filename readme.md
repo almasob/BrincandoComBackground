@@ -7,7 +7,7 @@
 <h2>Descrição</h2>
 <p>Projeto criado por conta própria, para praticar e aprimorar minhas habilidades e conhecimentos</p>
 
-<h2>Funcionalidade</h2>
+<h2>Funcionalidades</h2>
 <ul>
 	<li>Alterar a cor de fundo clicando no botão</li>
 	<li>É possível visualizar o valor da cor de fundo em HEXADECIMAL</li>
